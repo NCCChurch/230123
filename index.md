@@ -2,7 +2,7 @@
 ## 讲员：彭老师
 <audio controls src="./230123.mp3"></audio>
 
-![](1.jpg)
+![](./images/1.jpg)
 ![](2.jpg)
 ![](3.jpg)
 ![](4.jpg)
